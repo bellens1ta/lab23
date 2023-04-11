@@ -1,0 +1,42 @@
+[ 
+    {
+        "nombre":"Lucas",
+        "dni": 24911148,
+        "tieneCurso": true,
+        "domicilio": {
+            "calle": "Cazon",
+            "numero": 158,
+            "Localidad": "Tigre"
+        }
+    },
+    {
+        "nombre":"Paola",
+        "dni": 2453503696,
+        "tieneCurso": true,
+        "domicilio": {
+            "calle": "Libertad",
+            "numero": 563,
+            "Localidad": "Benavidez"
+        }
+    },
+    {
+        "nombre":"Cecilia",
+        "dni": 29652314,
+        "tieneCurso": false,
+        "domicilio": {
+            "calle": "Avellaneda",
+            "numero": 2058,
+            "Localidad": "Rincon de Milberg"
+        }
+    },  
+    {
+        "nombre":"Lucio",
+        "dni": 49810143,
+        "tieneCurso": false,
+        "domicilio": {
+            "calle": "Bogota",
+            "numero": 7895,
+            "Localidad": "General Pacheco"
+        }
+    }       
+]
